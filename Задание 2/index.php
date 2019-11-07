@@ -24,7 +24,5 @@
         'message' => 'test sms',
         'sender' => 'zmtech.ru'
     ]);
-
-    //echo $sms->ZMgetStatuses();
     
 ?>
